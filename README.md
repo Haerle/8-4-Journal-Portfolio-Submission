@@ -32,3 +32,4 @@ How do computational graphics and visualizations give you new knowledge and skil
 Answer:
 3.) I think computer science plays a big part in reaching my goals. 
 It taught me to use my creativity more.
+It taught me to be more assure of myself with creative ideas.
